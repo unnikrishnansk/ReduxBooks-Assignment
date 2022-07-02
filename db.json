@@ -1,0 +1,75 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Web Development",
+      "author": "Masai",
+      "category" : "Novel",
+      "release_year" : "2022"
+    },
+    {
+      "id": 2,
+      "title": "Web Development",
+      "author": "Masai",
+      "category" : "Bussiness",
+      "release_year" : "2021"
+    },
+    {
+      "id": 3,
+      "title": "Web Development",
+      "author": "Masai",
+      "category" : "Novel",
+      "release_year" : "2019"
+    },
+    {
+      "id": 4,
+      "title": "Web Development",
+      "author": "Masai",
+      "category" : "Thriller",
+      "release_year" : "2020"
+    },
+    {
+      "id": 5,
+      "title": "Web Development",
+      "author": "Masai",
+      "category" : "Motivational",
+      "release_year" : "2018"
+    },
+    {
+      "id": 6,
+      "title": "Web Development",
+      "author": "Masai",
+      "category" : "Bussiness",
+      "release_year" : "2017"
+    },
+    {
+      "id": 7,
+      "title": "Web Development",
+      "author": "Masai",
+      "category" : "Novel",
+      "release_year" : "2020"
+    },
+    {
+      "id": 8,
+      "title": "Web Development",
+      "author": "Masai",
+      "category" : "Thriller",
+      "release_year" : "2014"
+    },
+    {
+      "id": 9,
+      "title": "Web Development",
+      "author": "Masai",
+      "category" : "Motivational",
+      "release_year" : "2015"
+    },
+    {
+      "id": 10,
+      "title": "Web Development",
+      "author": "Masai",
+      "category" : "Bussiness",
+      "release_year" : "2019"
+    }
+  ]
+ 
+}
